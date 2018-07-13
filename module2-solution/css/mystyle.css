@@ -20,6 +20,10 @@ div.text_wrap {
 div.container {
   position: relative;
   margin: auto;
+  padding-top: 40px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
   background-color: #ffd9b3;
   border: 1px solid black;
   width: 100%;
